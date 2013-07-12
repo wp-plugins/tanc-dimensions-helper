@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Tanc Dimensions Helper ===
 Contributors: Jonnyauk
 Tags: browser dimensions, media queries
 Requires at least: 3.4
@@ -20,12 +20,12 @@ Uses:
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+The easiest way to install this plugin is through the admin area of your WordPress site. Simply search for 'Tanc Dimensions Helper' and install straight from there. Otherwise follow the simple steps below:
 
-e.g.
-
-1. Upload the whole folder `plugin-name.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Download the zip file by clicking the link above.
+2. Unzip the file on your computer.
+1. Upload the whole folder `tanc-dimensions-helper` to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Enjoy!
 
 == Frequently Asked Questions ==
