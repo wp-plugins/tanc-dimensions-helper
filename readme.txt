@@ -3,7 +3,7 @@ Contributors: Jonnyauk
 Tags: browser dimensions, media queries, CSS
 Requires at least: 3.4
 Tested up to: 3.6
-Stable tag: 0.2
+Stable tag: 0.21
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,7 +40,7 @@ Nope, not designed to be viewed here.
 
 == Screenshots ==
 
-1. Here is how it reports this information - top right of your WordPress admin bar.
+1. Here is how it reports this information - top right of your WordPress admin bar when you are logged in as an administrator level user.
 
 == Changelog ==
 
@@ -51,3 +51,15 @@ Nope, not designed to be viewed here.
 = 0.2 =
 * Released 19th August 2013
 * Introduce height measurement
+
+== Upgrade Notice ==
+
+= 0.21 =
+Tested WordPress 3.6 compatibility and introduced new viewport height measurement
+Documentation update and upgrade notices
+
+= 0.2 =
+Tested WordPress 3.6 compatibility and introduced new viewport height measurement
+
+= 0.1 =
+Initial release
